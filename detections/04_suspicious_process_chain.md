@@ -47,6 +47,8 @@ This detection identifies PsExec activity by monitoring command-line usage of bi
 
 ## Screenshot
 
+![Detection 04](../screenshots/detection-4-result.png)
+
 ## Analysis
 
 Host: WIN-ENDPOINT-01  
