@@ -49,6 +49,7 @@ This detection identifies PsExec activity by monitoring named pipe events in con
 
 ## Screenshot
 
+![Detection 02](../screenshots/detection-2-result.png)
 
 ## Analysis
 
