@@ -51,6 +51,8 @@ This detection identifies PsExec activity by monitoring PowerShell execution spa
 
 ## Screenshot
 
+![Detection 03](../screenshots/detection-3-result.png)
+
 ## Analysis
 
 Host: WIN-ENDPOINT-01  
