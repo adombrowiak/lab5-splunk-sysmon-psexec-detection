@@ -48,6 +48,8 @@ This detection identifies PsExec-based remote execution by monitoring processes 
 
 ## Screenshot
 
+![Detection 01](../screenshots/detection-1-result.png)
+
 ## Analysis
 
 Host: WIN-ENDPOINT-01  
