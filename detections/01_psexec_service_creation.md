@@ -1,4 +1,4 @@
-## Detection 01: PsExec Service-Based Execution
+# Detection 01: PsExec Service-Based Execution
 
 Detects PsExec-based remote command execution by identifying processes spawned from the PSEXESVC service on target systems.
 
