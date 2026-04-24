@@ -68,3 +68,7 @@ This activity indicates remote command execution via PsExec. The presence of PSE
 - Exclude known administrative accounts
 - Correlate with remote logon events (Event ID 4624 Type 3)
 - Limit alerts to non-maintenance windows
+
+## Severity
+
+High
