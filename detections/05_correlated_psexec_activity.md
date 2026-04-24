@@ -48,6 +48,8 @@ This detection identifies PsExec activity by correlating multiple behavioral ind
 
 ## Screenshot
 
+![Detection 05](../screenshots/detection-5-result.png)
+
 ## Analysis
 
 Host: WIN-ENDPOINT-01  
